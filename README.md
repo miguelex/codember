@@ -19,8 +19,8 @@ Por otro lado, me siento comodo con varios lenguajes, con  lo que podras encontr
 
 | Reto             | Lenguaje |
 |:----------------:|:--------:|
-| El Espía         |  PHP     | 
-| El decodificador |  Python  | 
+| El Espía         |  [PHP](https://github.com/miguelex/codember/tree/main/2023/Reto%201)    | 
+| El decodificador |  [Python](https://github.com/miguelex/codember/tree/main/2023/Reto%202)  | 
 
 
 
