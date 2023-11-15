@@ -16,11 +16,15 @@ El valor numérico inicial es 0 y las operaciones deben aplicarse en elorden en 
 **Ejemplos de entrada**
 
 Entrada: "##*&"
+
 Salida esperada: "4"
+
 Explicación: Incrementa (1), incrementa (2), multiplica (4), imprime (4).
 
 Entrada: "&##&*&@&"
+
 Salida esperada: "0243"
+
 Explicación: Imprime (0), incrementa (1), incrementa (2), imprime (2), multiplica (4), imprime (4), decrementa (3), imprime (3).
 
 **Tu desafío:**
