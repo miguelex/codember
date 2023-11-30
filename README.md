@@ -22,8 +22,5 @@ Por otro lado, me siento comodo con varios lenguajes, con  lo que podras encontr
 | El Espía         |  [PHP](https://github.com/miguelex/codember/tree/main/2023/Reto%201)    | 
 | El decodificador |  [Python](https://github.com/miguelex/codember/tree/main/2023/Reto%202)  | 
 | El cifrado |  [PHP](https://github.com/miguelex/codember/tree/main/2023/Reto%203)  | 
-
-
-
-
+| El Hacker | [PHP](https://github.com/miguelex/codember/blob/main/2023/Reto%204/reto4.php)<br/>[JS](https://github.com/miguelex/codember/blob/main/2023/Reto%204/reto4.js)|
 
